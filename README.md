@@ -1,0 +1,1 @@
+pythonla polindrom sayı tespiti
