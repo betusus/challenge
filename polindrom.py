@@ -11,6 +11,7 @@ class Solution(object):
 
         if rakamlar == inverse:
             return True
+            
         else:
             return False
 
