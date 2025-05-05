@@ -1,1 +1,1 @@
-pythonla polindrom sayı tespiti
+leetcode ile pythonla polindrom sayı tespiti
