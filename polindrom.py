@@ -7,7 +7,7 @@ class Solution(object):
 
 
         inverse= list(reversed(rakamlar))
-        print(inverse)
+        print(inverse);
 
         if rakamlar == inverse:
             return True
