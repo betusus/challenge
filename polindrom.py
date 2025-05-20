@@ -5,6 +5,7 @@ class Solution(object):
        
         rakamlar=[(rakam) for rakam in str (x)];
 
+        
 
         inverse= list(reversed(rakamlar))
         print(inverse);
